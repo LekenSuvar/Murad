@@ -1,0 +1,13 @@
+.hero__content{
+    display: grid;
+    grid-template-columns:auto auto auto;
+    gap: 20px;
+    background: url(../img/fonstola.ru_115642.jpg) no-repeat center top / cover;
+}
+
+.hero__content img{
+    max-width: 100%;
+    height: auto;
+    cursor: pointer;
+    position: relative;
+}
